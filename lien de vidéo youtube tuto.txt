@@ -1,1 +1,7 @@
 https://www.youtube.com/watch?v=wJoxnVvhpC8&index=32&list=PLC3y8-rFHvwg5gEu2KF4sbGvpUqMRSBSW
+
+
+
+
+
+Angular 4 Communication Between Components using @Input () and @Output () (Angular 4 :   https://www.youtube.com/watch?v=NUCAcuAptoE
